@@ -7,5 +7,4 @@ router.get('/', function(req, res, next) {
      title: 'Express', 
      message: "Pakistan" });
 });
-
 module.exports = router;
